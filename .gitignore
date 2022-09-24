@@ -12,5 +12,8 @@
 *.pif
 *.vb
 *.wsf
+*.class
+
+/target
 
 # End of https://www.toptal.com/developers/gitignore/api/executable
